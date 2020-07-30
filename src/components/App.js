@@ -97,8 +97,8 @@ class App extends React.Component {
             <div class="ui inverted section divider"></div>
             <img src="assets/logo/coronaicon1.png" class="ui centered mini image" alt="logo" />
             <div class="ui horizontal inverted small divided link list">
-              <a class="item" href="http://github.com/Ekhel/kawal-corona" target="_blank">Repository</a>
-              <a class="item" href="https://badges.gitter.im/jayapura_dev/react.svg" target="_blank">Gitter</a>
+              <a class="item" href="" target="_blank">Repository</a>
+              <a class="item" href="" target="_blank">Gitter</a>
             </div>
           </div>
         </div>

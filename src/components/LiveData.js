@@ -82,10 +82,10 @@ const LiveData = () => {
       })
     }
 
-    
         return (
             <div>
               <div className="ui grid">
+                
                   <div className="three column row">
                           <div className="column ui fluid card">
                             <div className="image">
