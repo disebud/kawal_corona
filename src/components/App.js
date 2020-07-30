@@ -89,8 +89,8 @@ class App extends React.Component {
                 </div>
               </div>
               <div class="seven wide column">
-                <h4 class="ui inverted header"> Dev By</h4>
-                <p>Michael.</p>
+                <h4 class="ui inverted header">Supported :</h4>
+                <p>Disebud Yeah !!!</p>
               </div>
               
             </div>
